@@ -1,0 +1,6 @@
+setup.py
+Linear_Regression.egg-info/PKG-INFO
+Linear_Regression.egg-info/SOURCES.txt
+Linear_Regression.egg-info/dependency_links.txt
+Linear_Regression.egg-info/requires.txt
+Linear_Regression.egg-info/top_level.txt

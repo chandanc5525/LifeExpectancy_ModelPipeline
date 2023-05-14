@@ -1,6 +1,14 @@
+README.md
 setup.py
 Linear_Regression.egg-info/PKG-INFO
 Linear_Regression.egg-info/SOURCES.txt
 Linear_Regression.egg-info/dependency_links.txt
 Linear_Regression.egg-info/requires.txt
 Linear_Regression.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_transformation.py
+src/components/model_trainer.py
